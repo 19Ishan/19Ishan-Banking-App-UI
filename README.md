@@ -22,6 +22,11 @@ This Android application, "Interactive Banking UI App," is a modern and intuitiv
 
 - **Android Studio:** Android Studio serves as the integrated development environment (IDE) for coding, debugging, and testing the Android application.
 
+## Screenshots
+![Banking App UI_2 (Light Theme)](https://github.com/19Ishan/19Ishan-Banking-App-UI/assets/94357547/569afde7-0929-49ce-a6c6-65d14ac75747)
+![Banking App UI_1 (Dark Theme)](https://github.com/19Ishan/19Ishan-Banking-App-UI/assets/94357547/eaa6f134-d3c9-43ec-997f-7c5a1769708c)
+
+
 ## Future Enhancements
 
 - **Integration of Jetpack Navigation:** Implement Jetpack Navigation to streamline navigation flows within the app, enhancing user experience and intuitiveness.
